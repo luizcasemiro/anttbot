@@ -1,4 +1,4 @@
-# anttbot
+# ANTT Scraper
 Scraper para extração de dados no site da ANTT
 
 Utilização
