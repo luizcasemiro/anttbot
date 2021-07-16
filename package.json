@@ -1,0 +1,17 @@
+{
+  "name": "botantt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2xls": "^0.1.2",
+    "puppeteer": "^10.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}

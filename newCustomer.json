@@ -1,0 +1,992 @@
+[
+    {
+        "nome": "Abrilino Pereira Da Silva 70457166991",
+        "rntrc": "052052099",
+        "cadastro_desde": "25/07/2019",
+        "validade": "25/07/2024",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Adao Pedro Bernar 55538495949",
+        "rntrc": "050466000",
+        "cadastro_desde": "20/10/2017",
+        "validade": "20/10/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Adejaime Froelich",
+        "rntrc": "052880955",
+        "cadastro_desde": "08/07/2020",
+        "validade": "08/07/2025",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Adriano Coan Benedet Transportes Eireli",
+        "rntrc": "051860799",
+        "cadastro_desde": "16/05/2019",
+        "validade": "16/05/2024",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Alcemir Dassi & Cia Ltda",
+        "rntrc": "000748003",
+        "cadastro_desde": "25/11/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Alessandro Batistella Loss E Cia Ltda-Me",
+        "rntrc": "047323467",
+        "cadastro_desde": "21/02/2014",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Altair Ramos Eireli",
+        "rntrc": "048749603",
+        "cadastro_desde": "28/07/2015",
+        "validade": "11/07/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Alubran Aluminios Ltda-Epp",
+        "rntrc": "002331690",
+        "cadastro_desde": "14/01/2005",
+        "validade": "10/01/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Anatalio Alves Bello Eireli",
+        "rntrc": "001763146",
+        "cadastro_desde": "20/12/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Anderson Meireles Da Silva-Me",
+        "rntrc": "046933741",
+        "cadastro_desde": "06/10/2013",
+        "validade": "10/10/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Andre Alves Rodrigues & Cia Ltda",
+        "rntrc": "044130900",
+        "cadastro_desde": "01/02/2011",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Bandeira E Krassmann Ltda",
+        "rntrc": "003216258",
+        "cadastro_desde": "21/02/2005",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Bons Negocios Comercio, Importação E Exportação Ltda",
+        "rntrc": "051268000",
+        "cadastro_desde": "25/09/2018",
+        "validade": "25/09/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Camarotto - Indústria E Comércio De Acumuladores Ltda - Me",
+        "rntrc": "004063277",
+        "cadastro_desde": "09/03/2005",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Carla Caroline Schio Transportes Eireli",
+        "rntrc": "045639173",
+        "cadastro_desde": "18/07/2012",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Castoldi & Batistella Ltda - Me",
+        "rntrc": "046540324",
+        "cadastro_desde": "05/06/2013",
+        "validade": "08/05/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Cesar Canton Transportes",
+        "rntrc": "046667065",
+        "cadastro_desde": "15/07/2013",
+        "validade": "26/05/2026",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Claudia Maria Haracymiw - Me",
+        "rntrc": "049384500",
+        "cadastro_desde": "23/06/2016",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Comércio De Cereais Baggio Ltda.",
+        "rntrc": "000494800",
+        "cadastro_desde": "12/11/2004",
+        "validade": "21/03/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Comercio De Cereais Irmaos Baggio Ltda",
+        "rntrc": "008879999",
+        "cadastro_desde": "21/11/2006",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Comercio De Materiais De Construção Cocebal Ltda Epp",
+        "rntrc": "000694442",
+        "cadastro_desde": "23/11/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Dahmer & Francescon Ltda - Me",
+        "rntrc": "046662802",
+        "cadastro_desde": "12/07/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Dal Moro Transportes Rodoviários Ltda",
+        "rntrc": "047353013",
+        "cadastro_desde": "07/03/2014",
+        "validade": "19/05/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Daniel Perin Bandeira & Cia Ltda",
+        "rntrc": "000661072",
+        "cadastro_desde": "22/11/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Dilermando Peruzzolo - Me",
+        "rntrc": "048195462",
+        "cadastro_desde": "05/01/2015",
+        "validade": "23/01/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "E J Correa Transportes Ltda Me",
+        "rntrc": "046745953",
+        "cadastro_desde": "08/08/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Ecotop Reciclagem E Logistica Ltda",
+        "rntrc": "052005822",
+        "cadastro_desde": "11/07/2019",
+        "validade": "11/07/2024",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Edevander Castoldi - Me",
+        "rntrc": "046206785",
+        "cadastro_desde": "19/02/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Ediomar Folle Eireli",
+        "rntrc": "052458422",
+        "cadastro_desde": "27/12/2019",
+        "validade": "27/12/2024",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Edisson Jonas Prestes & Cia Ltda - Me",
+        "rntrc": "046356094",
+        "cadastro_desde": "08/04/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Comercio De Materiais De Construção Cocebal Ltda Epp",
+        "rntrc": "000694442",
+        "cadastro_desde": "23/11/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Dahmer & Francescon Ltda - Me",
+        "rntrc": "046662802",
+        "cadastro_desde": "12/07/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Dal Moro Transportes Rodoviários Ltda",
+        "rntrc": "047353013",
+        "cadastro_desde": "07/03/2014",
+        "validade": "19/05/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Daniel Perin Bandeira & Cia Ltda",
+        "rntrc": "000661072",
+        "cadastro_desde": "22/11/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Dilermando Peruzzolo - Me",
+        "rntrc": "048195462",
+        "cadastro_desde": "05/01/2015",
+        "validade": "23/01/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "E J Correa Transportes Ltda Me",
+        "rntrc": "046745953",
+        "cadastro_desde": "08/08/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Ecotop Reciclagem E Logistica Ltda",
+        "rntrc": "052005822",
+        "cadastro_desde": "11/07/2019",
+        "validade": "11/07/2024",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Edevander Castoldi - Me",
+        "rntrc": "046206785",
+        "cadastro_desde": "19/02/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Ediomar Folle Eireli",
+        "rntrc": "052458422",
+        "cadastro_desde": "27/12/2019",
+        "validade": "27/12/2024",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Edisson Jonas Prestes & Cia Ltda - Me",
+        "rntrc": "046356094",
+        "cadastro_desde": "08/04/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Gomes E Rechzinski Ltda",
+        "rntrc": "010719669",
+        "cadastro_desde": "19/05/2008",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Guerino Fidelis Giongo - Me",
+        "rntrc": "010234452",
+        "cadastro_desde": "13/12/2007",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Gustavo A Transportes De Cargas Eireli",
+        "rntrc": "053110711",
+        "cadastro_desde": "15/09/2020",
+        "validade": "15/09/2025",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Itacir Dalorsoleta & Cia Ltda",
+        "rntrc": "044067346",
+        "cadastro_desde": "06/01/2011",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "J Cesar Viagens E Fretamento Ltda",
+        "rntrc": "050744700",
+        "cadastro_desde": "27/02/2018",
+        "validade": "27/02/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "J. Jung E Cia Ltda",
+        "rntrc": "011792866",
+        "cadastro_desde": "26/06/2009",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Jean Carlos Signori",
+        "rntrc": "050713200",
+        "cadastro_desde": "14/02/2018",
+        "validade": "14/02/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Joel Fontanella Eireli-Me",
+        "rntrc": "046805557",
+        "cadastro_desde": "27/08/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Juvenal Steffenon Eireli-Me",
+        "rntrc": "049011500",
+        "cadastro_desde": "17/12/2015",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Karen Duarte Pinto - Me",
+        "rntrc": "050548111",
+        "cadastro_desde": "24/11/2017",
+        "validade": "24/11/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Laura Joana Birk- Transportes Me",
+        "rntrc": "047340906",
+        "cadastro_desde": "27/02/2014",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Lc Transportes Rod. Ltda",
+        "rntrc": "012448875",
+        "cadastro_desde": "14/04/2010",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Leonardo Antonio Navarini & Cia Ltda",
+        "rntrc": "049238633",
+        "cadastro_desde": "19/04/2016",
+        "validade": "18/05/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Lubraz Transportes Rodoviarios Ltda",
+        "rntrc": "009763749",
+        "cadastro_desde": "18/07/2007",
+        "validade": "08/06/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "M.R. Baldissarelli E Cia Ltda",
+        "rntrc": "052431177",
+        "cadastro_desde": "11/12/2019",
+        "validade": "11/12/2024",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Marcio Colla Me",
+        "rntrc": "049417944",
+        "cadastro_desde": "08/07/2016",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Marmoraria Walkowitz Ltda",
+        "rntrc": "053670422",
+        "cadastro_desde": "04/03/2021",
+        "validade": "04/03/2026",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Mauro Stefanello Martins Eireli",
+        "rntrc": "049085999",
+        "cadastro_desde": "11/02/2016",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Max William Pellegrini & Cia Ltda Me-Me",
+        "rntrc": "047627741",
+        "cadastro_desde": "04/06/2014",
+        "validade": "07/02/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Metalpa Maquinas Industriais Ltda Me",
+        "rntrc": "045962624",
+        "cadastro_desde": "07/11/2012",
+        "validade": "15/02/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "N.J. Bortolini Atacado De Alimentos Eireli Epp",
+        "rntrc": "050705122",
+        "cadastro_desde": "07/02/2018",
+        "validade": "07/02/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Nestor De Moraes",
+        "rntrc": "053667544",
+        "cadastro_desde": "04/03/2021",
+        "validade": "04/03/2026",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Nilson Luiz Contte-Me",
+        "rntrc": "047109333",
+        "cadastro_desde": "04/12/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Orsoleta & Vicente Transportes Rodoviarios Ltda",
+        "rntrc": "052843399",
+        "cadastro_desde": "26/06/2020",
+        "validade": "26/06/2025",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Paulo Roberto Correia & Cia Ltda",
+        "rntrc": "012068274",
+        "cadastro_desde": "27/11/2009",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Pedreira Marmeleiro Ltda - Epp",
+        "rntrc": "049552866",
+        "cadastro_desde": "06/09/2016",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Pilati Transportes Ltda - Me",
+        "rntrc": "049978688",
+        "cadastro_desde": "06/04/2017",
+        "validade": "06/04/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Presotto & Cia Ltda",
+        "rntrc": "000930251",
+        "cadastro_desde": "01/12/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Restaurante Toscan Ltda",
+        "rntrc": "052595899",
+        "cadastro_desde": "26/02/2020",
+        "validade": "26/02/2025",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Rodrigo Menegazzo & Cia Ltda - Me",
+        "rntrc": "046534162",
+        "cadastro_desde": "04/06/2013",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Rosa E Agostini Ltda - Me",
+        "rntrc": "003795177",
+        "cadastro_desde": "04/03/2005",
+        "validade": "09/03/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Sadi Domingos Pretto-Me",
+        "rntrc": "045837366",
+        "cadastro_desde": "20/09/2012",
+        "validade": "09/02/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Sambox Logistica E Transportes Ltda - Me",
+        "rntrc": "050464299",
+        "cadastro_desde": "19/10/2017",
+        "validade": "19/10/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Sergio Antonio Dalla Costa - Me",
+        "rntrc": "050100677",
+        "cadastro_desde": "29/05/2017",
+        "validade": "29/05/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Sergio Luiz Da Luz& Cia Ltda",
+        "rntrc": "044763016",
+        "cadastro_desde": "15/09/2011",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Silvio Jose Wessler Eireli-Me",
+        "rntrc": "047255534",
+        "cadastro_desde": "31/01/2014",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Stein Implementos Rodoviarios Eireli",
+        "rntrc": "051410355",
+        "cadastro_desde": "13/11/2018",
+        "validade": "13/11/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Terraplenagem Santo Antonio Ltda-Me",
+        "rntrc": "047779274",
+        "cadastro_desde": "25/07/2014",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Thais Rodrigues Transportes De Cargas Eireli",
+        "rntrc": "053342955",
+        "cadastro_desde": "19/11/2020",
+        "validade": "19/11/2025",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Ajb Ltda",
+        "rntrc": "045028670",
+        "cadastro_desde": "19/12/2011",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Bressiani Eireli",
+        "rntrc": "051068599",
+        "cadastro_desde": "11/07/2018",
+        "validade": "11/07/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Elt Ltda-Me",
+        "rntrc": "046932133",
+        "cadastro_desde": "04/10/2013",
+        "validade": "07/02/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Fazenda Santo Antonio Ltda - Me",
+        "rntrc": "000693756",
+        "cadastro_desde": "23/11/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Huppes Ltda-Me",
+        "rntrc": "047365143",
+        "cadastro_desde": "12/03/2014",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Igor Vanzetto Ltda",
+        "rntrc": "044522981",
+        "cadastro_desde": "28/06/2011",
+        "validade": "01/06/2026",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Ivanito Vanzetto-Eireli",
+        "rntrc": "051076611",
+        "cadastro_desde": "13/07/2018",
+        "validade": "12/08/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Papker Ltda. - Me",
+        "rntrc": "000677440",
+        "cadastro_desde": "23/11/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Pithan Ltda",
+        "rntrc": "053490133",
+        "cadastro_desde": "12/01/2021",
+        "validade": "12/01/2026",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Ppc Ltda - Me",
+        "rntrc": "046175006",
+        "cadastro_desde": "04/02/2013",
+        "validade": "14/02/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Rafael R. Nicolau Eireli",
+        "rntrc": "052949644",
+        "cadastro_desde": "29/07/2020",
+        "validade": "29/07/2025",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Bressiani Eireli",
+        "rntrc": "051068599",
+        "cadastro_desde": "11/07/2018",
+        "validade": "11/07/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Elt Ltda-Me",
+        "rntrc": "046932133",
+        "cadastro_desde": "04/10/2013",
+        "validade": "07/02/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Fazenda Santo Antonio Ltda - Me",
+        "rntrc": "000693756",
+        "cadastro_desde": "23/11/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Huppes Ltda-Me",
+        "rntrc": "047365143",
+        "cadastro_desde": "12/03/2014",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Igor Vanzetto Ltda",
+        "rntrc": "044522981",
+        "cadastro_desde": "28/06/2011",
+        "validade": "01/06/2026",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Ivanito Vanzetto-Eireli",
+        "rntrc": "051076611",
+        "cadastro_desde": "13/07/2018",
+        "validade": "12/08/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Papker Ltda. - Me",
+        "rntrc": "000677440",
+        "cadastro_desde": "23/11/2004",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Pithan Ltda",
+        "rntrc": "053490133",
+        "cadastro_desde": "12/01/2021",
+        "validade": "12/01/2026",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Ppc Ltda - Me",
+        "rntrc": "046175006",
+        "cadastro_desde": "04/02/2013",
+        "validade": "14/02/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportadora Rafael R. Nicolau Eireli",
+        "rntrc": "052949644",
+        "cadastro_desde": "29/07/2020",
+        "validade": "29/07/2025",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportes Andreoli Ltda-Me",
+        "rntrc": "047706820",
+        "cadastro_desde": "02/07/2014",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportes Dalla Libera Ltda",
+        "rntrc": "003126780",
+        "cadastro_desde": "18/02/2005",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportes Dias & Dias Ltda",
+        "rntrc": "049111999",
+        "cadastro_desde": "23/02/2016",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportes Raimundi Eireli",
+        "rntrc": "052818355",
+        "cadastro_desde": "18/06/2020",
+        "validade": "18/06/2025",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Transportes Rodoviários Rodebem Ltda - Epp",
+        "rntrc": "050055077",
+        "cadastro_desde": "11/05/2017",
+        "validade": "11/05/2022",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Twm Comercio De Materiais De Construcao - Eireli",
+        "rntrc": "051295533",
+        "cadastro_desde": "03/10/2018",
+        "validade": "03/10/2023",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "V D P - Artefatos De Cimento Ltda - Epp",
+        "rntrc": "012550068",
+        "cadastro_desde": "25/05/2010",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "V Pereira Dos Santos",
+        "rntrc": "053584855",
+        "cadastro_desde": "09/02/2021",
+        "validade": "09/02/2026",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Valdeci Moro E Cia Ltda",
+        "rntrc": "009016986",
+        "cadastro_desde": "08/01/2007",
+        "validade": "31/12/2021",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    },
+    {
+        "nome": "Valmar Transportes Eireli",
+        "rntrc": "053916544",
+        "cadastro_desde": "18/05/2021",
+        "validade": "18/05/2026",
+        "situacao": "Ativo",
+        "cidade": "PR",
+        "estado": "MARMELEIRO"
+    }
+]
